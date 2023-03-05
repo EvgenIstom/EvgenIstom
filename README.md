@@ -19,25 +19,25 @@
 ## Мои навыки
 
 ### Инструменты
-![Postman](https://img.shields.io/badge/Postman-B5B5B5?style=for-the-badge&logo=postman&logoColor=f76935)
-![Swagger](https://img.shields.io/badge/Swagger-B5B5B5?style=for-the-badge&logo=swagger&logoColor=238636)
-![Devtools](https://img.shields.io/badge/DevTools-B5B5B5?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Github](https://img.shields.io/badge/Github-B5B5B5?style=for-the-badge&logo=github&logoColor=ffffff)
-![Postgresql](https://img.shields.io/badge/Postgresql-B5B5B5?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Figma](https://img.shields.io/badge/Figma-B5B5B5?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![YaTracker](https://img.shields.io/badge/YandexTracker-B5B5B5?style=for-the-badge&logo=YandexTracker&logoColor=8cc4d7)
-![Jira](https://img.shields.io/badge/Jira-B5B5B5?style=for-the-badge&logo=Jira&logoColor=0071ED)
-![Trello](https://img.shields.io/badge/Trello-B5B5B5?style=for-the-badge&logo=Trello&logoColor=ffffff)
-![Charles](https://img.shields.io/badge/CharlesProxy-B5B5B5?style=for-the-badge&logo=charles&logoColor=8cc4d7)
-![Terminal](https://img.shields.io/badge/Terminal-B5B5B5?style=for-the-badge&logo=Terminal&logoColor=8cc4d7)
+![Postman](https://img.shields.io/badge/Postman-F0F6FC?style=for-the-badge&logo=postman&logoColor=f76935)
+![Swagger](https://img.shields.io/badge/Swagger-F0F6FC?style=for-the-badge&logo=swagger&logoColor=238636)
+![Devtools](https://img.shields.io/badge/DevTools-F0F6FC?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Github](https://img.shields.io/badge/Github-F0F6FC?style=for-the-badge&logo=github&logoColor=ffffff)
+![Postgresql](https://img.shields.io/badge/Postgresql-F0F6FC?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Figma](https://img.shields.io/badge/Figma-F0F6FC?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![YaTracker](https://img.shields.io/badge/YandexTracker-F0F6FC?style=for-the-badge&logo=YandexTracker&logoColor=8cc4d7)
+![Jira](https://img.shields.io/badge/Jira-F0F6FC?style=for-the-badge&logo=Jira&logoColor=0071ED)
+![Trello](https://img.shields.io/badge/Trello-F0F6FC?style=for-the-badge&logo=Trello&logoColor=ffffff)
+![Charles](https://img.shields.io/badge/CharlesProxy-F0F6FC?style=for-the-badge&logo=charles&logoColor=8cc4d7)
+![Terminal](https://img.shields.io/badge/Terminal-F0F6FC?style=for-the-badge&logo=Terminal&logoColor=8cc4d7)
 
 
 
 ### Базовые знания языков программирования, разметки и стилей
-![Python](https://img.shields.io/badge/Python-B5B5B5?style=for-the-badge&logo=Python&logoColor=347AB4)
-![JS](https://img.shields.io/badge/Javascript-B5B5B5?style=for-the-badge&logo=JavaScript&logoColor=FED73D)
-![HTML](https://img.shields.io/badge/HTML-B5B5B5?style=for-the-badge&logo=HTML5&logoColor=F16529)
-![CSS](https://img.shields.io/badge/CSS-B5B5B5?style=for-the-badge&logo=CSS3&logoColor=2965F1)
+![Python](https://img.shields.io/badge/Python-F0F6FC?style=for-the-badge&logo=Python&logoColor=347AB4)
+![JS](https://img.shields.io/badge/Javascript-F0F6FC?style=for-the-badge&logo=JavaScript&logoColor=FED73D)
+![HTML](https://img.shields.io/badge/HTML-F0F6FC?style=for-the-badge&logo=HTML5&logoColor=F16529)
+![CSS](https://img.shields.io/badge/CSS-F0F6FC?style=for-the-badge&logo=CSS3&logoColor=2965F1)
 
 ## Тестовые артефакты
 
@@ -48,6 +48,6 @@
 - [Postman коллекции](https://github.com/evgenistom/postman)
 
 ## Связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-B5B5B5?style=for-the-badge&logo=Telegram&logoColor=158CC7)](https://t.me/evgistoma)
-[![Gmail](https://img.shields.io/badge/Почта-B5B5B5?style=for-the-badge&logo=gmail&logoColor=D04836)](mailto:istom.evgen@gmail.com)
-[![LinkedIN](https://img.shields.io/badge/linkedin-B5B5B5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/evgenii-istomin-v/)
+[![Telegram](https://img.shields.io/badge/Telegram-F0F6FC?style=for-the-badge&logo=Telegram&logoColor=158CC7)](https://t.me/evgistoma)
+[![Gmail](https://img.shields.io/badge/Почта-F0F6FC?style=for-the-badge&logo=gmail&logoColor=D04836)](mailto:istom.evgen@gmail.com)
+[![LinkedIN](https://img.shields.io/badge/linkedin-F0F6FC?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/evgenii-istomin-v/)
