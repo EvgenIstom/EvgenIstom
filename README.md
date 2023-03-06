@@ -45,6 +45,7 @@
 - [Баг-репорты](https://github.com/evgenistom/bug_reports)
 - [SQL запросы](https://github.com/evgenistom/sql)
 - [Postman коллекции](https://github.com/evgenistom/postman)
+- [Mindmap](https://github.com/evgenistom/mindmap)
 
 ## Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-080808?style=for-the-badge&logo=Telegram&logoColor=158CC7)](https://t.me/evgistoma)
