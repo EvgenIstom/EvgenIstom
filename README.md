@@ -40,7 +40,7 @@
 
 ## Тестовые артефакты
 
-- [Чек-листы](https://github.com/evgenistom/checklist)
+- [Чек-листы](https://github.com/EvgenIstom/EvgenIstom/tree/main/checklist)
 - [Тест-кейсы](https://github.com/evgenistom/test_cases)
 - [Баг-репорты](https://github.com/evgenistom/bug_reports)
 - [SQL запросы](https://github.com/evgenistom/sql)
