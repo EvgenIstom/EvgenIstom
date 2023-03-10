@@ -13,7 +13,7 @@
 
 
 ## Моё резюме
-- [Тестировщик ПО](https://yadi.sk/i/n99KZ-9o90Fr9Q)
+- [Тестировщик ПО](https://drive.google.com/file/d/17sSu8i_L28zuiY8OYM5Pp1bhtQKxMfCN/view?usp=sharing)
 
 ## Мои навыки
 
