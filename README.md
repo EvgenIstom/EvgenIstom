@@ -41,7 +41,7 @@
 ## Тестовые артефакты
 
 - [Чек-листы](https://github.com/EvgenIstom/EvgenIstom/tree/main/checklist)
-- [Тест-кейсы](https://github.com/EvgenIstom/EvgenIstom/tree/main/test_cases)
+- [Тест-кейсы](https://github.com/EvgenIstom/EvgenIstom/tree/main/gitest_cases)
 - [Баг-репорты](https://github.com/EvgenIstom/EvgenIstom/tree/main/bug_reports)
 - [SQL запросы](https://github.com/EvgenIstom/EvgenIstom/tree/main/sql)
 - [Postman коллекции](https://github.com/EvgenIstom/EvgenIstom/tree/main/postman)

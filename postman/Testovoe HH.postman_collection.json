@@ -1,0 +1,174 @@
+{
+	"info": {
+		"_postman_id": "2305ad97-9732-471c-a53e-568a00429d0b",
+		"name": "Testovoe HH",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24907697"
+	},
+	"item": [
+		{
+			"name": "Получить список пользователей",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "dfe229792c6141cd062a06b20d68cf679b970cb9fc522e263fb547b3e41962c3",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://gorest.co.in/public/v2/users?status=active&name=Sanka",
+					"protocol": "https",
+					"host": [
+						"gorest",
+						"co",
+						"in"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users"
+					],
+					"query": [
+						{
+							"key": "status",
+							"value": "active"
+						},
+						{
+							"key": "name",
+							"value": "Sanka"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создать пользователя",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "dfe229792c6141cd062a06b20d68cf679b970cb9fc522e263fb547b3e41962c3",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{   \r\n    \"name\": \"Telma\",\r\n    \"email\": \"telmalouisa123@fer.name\",\r\n    \"gender\": \"female\",\r\n    \"status\": \"active\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://gorest.co.in/public/v2/users",
+					"protocol": "https",
+					"host": [
+						"gorest",
+						"co",
+						"in"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Обновление данных пользователя",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "dfe229792c6141cd062a06b20d68cf679b970cb9fc522e263fb547b3e41962c3",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "https://gorest.co.in/public/v2/users/152942?status=inactive&email=tel123el@mai.ru",
+					"protocol": "https",
+					"host": [
+						"gorest",
+						"co",
+						"in"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users",
+						"152942"
+					],
+					"query": [
+						{
+							"key": "status",
+							"value": "inactive"
+						},
+						{
+							"key": "email",
+							"value": "tel123el@mai.ru"
+						},
+						{
+							"key": "gender",
+							"value": "female",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Удаление пользователя",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "dfe229792c6141cd062a06b20d68cf679b970cb9fc522e263fb547b3e41962c3",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://gorest.co.in/public/v2/users/152942",
+					"protocol": "https",
+					"host": [
+						"gorest",
+						"co",
+						"in"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users",
+						"152942"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
