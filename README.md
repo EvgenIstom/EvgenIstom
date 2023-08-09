@@ -13,7 +13,7 @@
 
 
 ## Моё резюме
-- [Тестировщик ПО](https://drive.google.com/file/d/17sSu8i_L28zuiY8OYM5Pp1bhtQKxMfCN/view?usp=sharing)
+- [Тестировщик ПО](https://drive.google.com/file/d/1jmgEoLoxnoPRMuul3rhK7-lTA0TftmAy/view?usp=sharing)
 
 ## Мои навыки
 
